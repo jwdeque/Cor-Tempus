@@ -38,7 +38,7 @@ Tap and hold **again** while the field icon is showing to switch to the next dat
 
 If you are in the EU, the above Store link will likely be broken for you.
 
-You will need to manually install the watch face.
+You will need to  install the watch face manually, see below.
 
 This is due to Garmin's heavy-handed interpretation of the [DSA](https://en.wikipedia.org/wiki/Digital_Services_Act)
 and them hiding apps from the EU users unless the developer goes through a fairly invasive "verification" process.
