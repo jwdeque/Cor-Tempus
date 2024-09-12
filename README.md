@@ -10,11 +10,15 @@ Available from the Garmin Store here - https://apps.garmin.com/apps/a2e6aba0-9c4
 
 ### Battery level
 
-When battery charge is over 20%, its level is shown only when the face is in a "high-power" (or "awoken") mode.
+When battery charge is over 20%, its level is shown only when the watch is awake (in the "high-power" mode).
 
 When the battery is 20% or less, its level is also shown in the "always on" mode.
 
 ![Cor Tempus, Low Battery](img/cor-tempus-2-low-battery.png)
+
+Otherwise, in the "always on" mode, the charge bar is hidden:
+
+![Cor Tempus, Always On Mode](img/cor-tempus-1-always-on.png)
 
 ### Data field
 
