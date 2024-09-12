@@ -46,8 +46,8 @@ Subjectively, this is hardly worth it for an app that draws a handful of digits 
 
 Luckily, side-loading on Garmin watches is easy:
 
-* Plug the watch into a computer
-* Copy the watch face `.prg` file to `Garmin/Apps` folder
+* Plug your watch into a computer
+* Copy the watch face `.prg` file to `Garmin/Apps` folder on the watch
 * Unplug the watch
 
 The `.prg` is model-specific so pick one that matches your watch:
