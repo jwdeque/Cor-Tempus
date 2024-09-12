@@ -22,8 +22,9 @@ Otherwise, in the "always on" mode, the charge bar is hidden:
 
 ### Data field
 
-The field at the bottom is used to display heart rate, steps or calories. On watches that support floor counting
-it will support that metric as well.
+The field at the bottom is used to display heart rate, steps or calories.
+
+On watches that support floor counting it may display that metric as well.
 
 **Tap and hold** to show current data field type.
 
