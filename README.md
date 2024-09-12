@@ -4,15 +4,15 @@ A simple watch face for AMOLED Garmin watches.
 
 ![Cor Tempus Screenshot](img/cor-tempus-1-high-power.png)
 
-Watch face shows time, battery level and one data field, defaulting to the heart rate.
+The watch face shows the time, battery level and one data field, defaulting to the heart rate.
 
 Available from the Garmin Store here - https://apps.garmin.com/apps/a2e6aba0-9c45-4f57-8bb8-14bdc8bbc57c
 
 ### Battery level
 
-When battery charge is over 20%, its level is shown only when the watch is awake (in the "high-power" mode).
+When the battery is over 20%, its charge is shown only when the watch is awake (in "high-power" mode).
 
-When the battery is 20% or less, its level is also shown in the "always on" mode.
+When the battery is 20% or less, the charge is also shown in "always on" mode.
 
 ![Cor Tempus, Low Battery](img/cor-tempus-2-low-battery.png)
 
@@ -22,9 +22,9 @@ Otherwise, in the "always on" mode, the charge bar is hidden:
 
 ### Data field
 
-The field at the bottom is used to display heart rate, steps or calories.
+The field at the bottom is used to display the heart rate, steps or calories.
 
-On watches that support floor counting it may display that metric as well.
+On watches that support floor counting, it may display that metric as well.
 
 **Tap and hold** to show current data field type.
 
@@ -38,7 +38,7 @@ Tap and hold **again** while the field icon is showing to switch to the next dat
 
 If you are in the EU, the above Store link will likely be broken for you.
 
-You will need to  install the watch face manually, see below.
+You will need to install the watch face manually, see below.
 
 This is due to Garmin's heavy-handed interpretation of the [DSA](https://en.wikipedia.org/wiki/Digital_Services_Act)
 and them hiding apps from the EU users unless the developer goes through a fairly invasive "verification" process.
