@@ -74,3 +74,4 @@ The `.prg` is model-specific so pick one that matches your watch:
 * [venusq2](https://github.com/jwdeque/CorTempus/raw/master/prg/2.0/006-B4115-00/Cor%20Tempus%202.0.prg)
 * [venusq2m](https://github.com/jwdeque/CorTempus/raw/master/prg/2.0/006-B4116-00/Cor%20Tempus%202.0.prg)
 * [vivoactive5](https://github.com/jwdeque/CorTempus/raw/master/prg/2.0/006-B4426-00/Cor%20Tempus%202.0.prg)
+
